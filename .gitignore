@@ -1,0 +1,75 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Private, secrets.
+fonts
+lib/hiro_sho_logo_icons.dart
+lib/API
+lib/database/hero_test.dart
+lib/models/hero_test.dart
+lib/l10n
+lib/outerApps
+lib/apps/card_test.dart
+lib/apps/custom_widget.dart
+lib/apps/gallery.dart
+lib/apps/hero_test_gridview.dart
+lib/apps/hero_test_gridview2.dart
+lib/apps/hero_test_gridview3.dart
+lib/apps/hero_test.dart
+lib/apps/hero_test2.dart
+lib/apps/hiromaru_web_test.dart
+lib/apps/memo_icons.dart
+lib/apps/nested_list_screen.dart
+lib/apps/pageview_image.dart
+lib/apps/pageview_test.dart
+lib/apps/sliver_test.dart
+lib/apps/sliver_test2.dart
+lib/apps/tabbar_MLnPG.dart
+lib/apps/tabbar_MLnPG2.dart
+lib/apps/tabbar_test.dart
+lib/apps/videoplayer_for_youtube.dart
+lib/apps/videoplayer_test.dart
